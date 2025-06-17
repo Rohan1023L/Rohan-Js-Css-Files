@@ -2,7 +2,7 @@
                     const downloadButton = document.getElementById('downloadPdfButton');
 
                     downloadButton.addEventListener('click', function () {
-                        const googleDriveFileId = '1TyA6SFeRIEmDV0uVUhyBf9pdEGNAahV7';
+                        const googleDriveFileId = '15-yVw6XH_QrGvutx_fpvqCWPUTTQiO68';
                         const pdfUrl = `https://drive.google.com/uc?export=download&id=${googleDriveFileId}`;
 
                         try {
